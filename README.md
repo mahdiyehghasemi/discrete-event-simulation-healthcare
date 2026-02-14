@@ -11,6 +11,9 @@ Bachelor’s level course project focused on modeling and analyzing patient flow
 - Discrete-Event Simulation
 - Arena 
 - Data analysis and performance evaluation
+- 
+## Simulation Platform
+- Arena Discrete-Event Simulation (graphical modeling environment)
 
 ## Files
 - Source code
