@@ -9,7 +9,7 @@ Bachelor’s level course project focused on modeling and analyzing patient flow
 
 ## Tools & Methods
 - Discrete-Event Simulation
-- / SimPy / Arena /
+- Arena 
 - Data analysis and performance evaluation
 
 ## Files
